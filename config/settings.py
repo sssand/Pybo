@@ -25,7 +25,7 @@ SECRET_KEY = '@uuspl5$#k*^)-!%!-#4wcp(!y#x$95^4v+4_&0kkvvamz165f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [192.168.45.56]
 
 
 # Application definition
